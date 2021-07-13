@@ -1,4 +1,4 @@
-// Book my show planning
+// Book my show React app planning
 
 // -> We need a reusable carousel
 //   -> Hero carousel
