@@ -1,10 +1,17 @@
 import React from 'react';
 
+// Components
+import Navbar from '../components/Navbar/Navbar.componet';
+import HeroCarousel from '../components/HeroCarousel/HeroCarousel.component';
+
+
 const DefaultLayout = (props) => {
     return(
         <>
-            <h1 className="text-xl bg-red-700">Default Layout</h1>
+            <Navbar/>
+            <HeroCarousel />
             {props.children}
+            
         </>
     );
 };
