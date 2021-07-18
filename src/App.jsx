@@ -9,12 +9,13 @@ import DefaultHOC from "./HOC/Default.HOC";
 
 // pages
 import HomePage from "./pages/Home.page"
+import MoviePage from "./pages/Movie.page"
 
 function App() {
   return (
     <>
     <DefaultHOC path="/" exact component={HomePage} />
-    <DefaultHOC path="/" exact component={MoviesPage} />
+    <DefaultHOC path="/movie/:id" exact component={MoviePage} />
     </>
   );
 }

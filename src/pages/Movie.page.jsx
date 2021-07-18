@@ -2,8 +2,12 @@ import React from 'react'
 
 const MoviePage = () => {
     return (
-        <div>
-            
-        </div>
+        <>
+            <div>
+                HI
+            </div>
+        </>
     )
 }
+
+export default MoviePage;

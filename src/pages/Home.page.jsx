@@ -18,8 +18,8 @@ const HomePage = () => {
           <EntertainmentCardSlider />
         </div>
 
-        <div className="bg-bms-800 py-10 px-16">
-          <div className="container mx-auto">
+        <div className="bg-bms-800 py-10">
+          <div className="container mx-auto px-4 flex flex-col gap-3">
             <div className="hidden md:flex">
               <img
                 src="https://in.bmscdn.com/discovery-catalog/collections/tr:w-1440,h-120/premiere-rupay-banner-web-collection-202104230555.png"
@@ -37,14 +37,14 @@ const HomePage = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-16 my-8">
+      <div className="container mx-auto px-4 my-8">
         <PosterSlider
           images={TempPosters}
           title="Online Streaming events"
           isDark={false}
         />
       </div>
-      <div className="container mx-auto px-16 my-8">
+      <div className="container mx-auto px-4 my-8">
         <PosterSlider
           images={TempPosters}
           title="Outdoor events"
