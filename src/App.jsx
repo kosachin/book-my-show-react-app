@@ -8,12 +8,13 @@ import "slick-carousel/slick/slick-theme.css";
 import DefaultHOC from "./HOC/Default.HOC";
 
 // pages
-import HomePage from "./pages/HomePage"
+import HomePage from "./pages/Home.page"
 
 function App() {
   return (
     <>
     <DefaultHOC path="/" exact component={HomePage} />
+    <DefaultHOC path="/" exact component={MoviesPage} />
     </>
   );
 }
