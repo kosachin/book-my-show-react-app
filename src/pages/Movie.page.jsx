@@ -1,13 +1,14 @@
 import React from 'react'
 
-const MoviePage = () => {
+// Components 
+import MovieHero from '../components/MovieHero/MovieHero.component';
+
+const Movie = () => {
     return (
         <>
-            <div>
-                HI
-            </div>
+            <MovieHero />
         </>
     )
 }
 
-export default MoviePage;
+export default Movie;
