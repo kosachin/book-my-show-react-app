@@ -11,8 +11,8 @@ const Cast = (props) => {
             className="w-full h-full rounded-full"
           />
         </div>
-        <h1 className="text-xl  text-gray-800">{props.castName}Christian Bale</h1>
-        <h5 className="text-sm text-gray-500">as John mathew{props.role}</h5>
+        <h1 className="text-xl  text-gray-800">{props.castName}</h1>
+        <h5 className="text-sm text-gray-500">as {props.role}</h5>
       </div>
     </>
   );
