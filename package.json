@@ -20,10 +20,10 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "preddploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "craco start",
-    "build": "CI=flase && craco build",
+    "build": "react-scripts build && craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
