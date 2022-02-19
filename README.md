@@ -59,7 +59,8 @@ git pull origin <branch_name>
   - Detailed Information about selected movie
   - Show similar movie suggestions
 
-  ![productpage-3](https://user-images.githubusercontent.com/80893464/154789657-63a2a31f-fad0-49ad-8216-f18942a36541.png)
+![productpage-3 (1)](https://user-images.githubusercontent.com/80893464/154789812-a7ada78f-da0b-4a8e-bd08-7fb59907731f.png)
+
 
 
 
