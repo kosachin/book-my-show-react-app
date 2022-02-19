@@ -59,32 +59,9 @@ git pull origin <branch_name>
   - Detailed Information about selected movie
   - Show similar movie suggestions
 
-![productpage-3 (1)](https://user-images.githubusercontent.com/80893464/154789812-a7ada78f-da0b-4a8e-bd08-7fb59907731f.png)
-
-![productpage-3 (2)](https://user-images.githubusercontent.com/80893464/154789867-8166b768-9335-4460-988c-246d428095ef.png)
+  ![productpage](https://user-images.githubusercontent.com/80893464/154789812-a7ada78f-da0b-4a8e-bd08-7fb59907731f.png)
 
 
-
-- All Products Page
-  - All products are fetched from online database ```Key feature```
-  - Multiple filters
-  - Sorting functionality
-  - Adding and removing products to wishlist
-    
-  ![all products](https://user-images.githubusercontent.com/86410034/129320333-f0657102-243a-4ef7-8bb4-82c2c2b4c31d.png)
-
-- Selected Product Page
-  - Dynamically show product details
-  - Select quantity
-  - Add to cart
-
-  ![single product](https://user-images.githubusercontent.com/86410034/129320370-86c06387-32a0-4b3a-9812-1eda9eaada4b.png)
-
-- Checkout Page 
-  - Add address details
-  - Order summary view
-
-![Checkout](https://user-images.githubusercontent.com/86410034/129320743-a2c2e8ed-e309-4e1a-9bfb-41ce201847da.png)
 
 - Payment Page
   - Add card details
