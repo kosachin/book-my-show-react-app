@@ -53,6 +53,8 @@ git pull origin <branch_name>
   - Category, Premieres, Events carousel
   
   <iframe src="https://giphy.com/embed/A7mK5ssfDIulKhTayt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/A7mK5ssfDIulKhTayt">via GIPHY</a></p>
+    ![homepage](https://giphy.com/embed/A7mK5ssfDIulKhTayt)
+  
 
 - Sign in/ up Page
   - Only unique users can sign up
