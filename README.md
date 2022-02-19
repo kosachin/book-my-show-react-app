@@ -68,8 +68,4 @@ git pull origin <branch_name>
   - Integrated Razor Pay 
 
   ![razorpayPNG](https://user-images.githubusercontent.com/80893464/154791671-b1a38520-b230-468c-ac41-6d7a00855590.PNG)
-
-+
-
-
-
+  
