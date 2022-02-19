@@ -49,14 +49,11 @@ git pull origin <branch_name>
 ### Webpages along with its features
 
 - Homepage
-  - Dropdown menu on hover
-  - Live Search Products/ Categories ```Key feature```
-  - Voice Search Products/ Categories ```Key feature```
   - Slideshow in hero section
-  - Products carousel
+  - Category, Premieres, Events carousel
   
-  ![homepage](https://user-images.githubusercontent.com/86410034/129320136-4642eb9e-8500-4058-a8c3-440bb38dafc7.png)
-  
+  <iframe src="https://giphy.com/embed/A7mK5ssfDIulKhTayt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/A7mK5ssfDIulKhTayt">via GIPHY</a></p>
+
 - Sign in/ up Page
   - Only unique users can sign up
   - Validations and authentication of users from an online database ```Key feature```
