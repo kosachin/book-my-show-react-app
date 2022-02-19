@@ -52,9 +52,8 @@ git pull origin <branch_name>
   - Slideshow in hero section
   - Category, Premieres, Events carousel
   
-  <img src="https://giphy.com/embed/A7mK5ssfDIulKhTayt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/A7mK5ssfDIulKhTayt">via GIPHY</a></p>
-    ![homepage](https://giphy.com/embed/A7mK5ssfDIulKhTayt)
-  
+  ![homepage](https://user-images.githubusercontent.com/80893464/154788481-a764088e-ed43-4188-a601-11592ccdafb1.png)
+
 
 - Sign in/ up Page
   - Only unique users can sign up
