@@ -57,18 +57,19 @@ git pull origin <branch_name>
 
 - Product Page
   - Detailed Information about selected movie
-  - Show similar movie suggestions
+  - Similar movie suggestions
+  - Buy and Rent movie option
 
   ![productpage](https://user-images.githubusercontent.com/80893464/154789812-a7ada78f-da0b-4a8e-bd08-7fb59907731f.png)
 
 
 
 - Payment Page
-  - Add card details
-  - Order summary view
-  - Promocode option availale
+  - Integrated Razor Pay 
 
-![payment](https://user-images.githubusercontent.com/86410034/129321544-2316bd85-e770-4952-aa38-b37f0a6d2066.png)
+  ![razorpayPNG](https://user-images.githubusercontent.com/80893464/154791671-b1a38520-b230-468c-ac41-6d7a00855590.PNG)
+
++
 
 
 
