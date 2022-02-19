@@ -55,11 +55,13 @@ git pull origin <branch_name>
   ![homepage](https://user-images.githubusercontent.com/80893464/154789079-763b4c2f-bb28-48ca-8a73-407ea6a7e19d.png)
 
 
-- Sign in/ up Page
-  - Only unique users can sign up
-  - Validations and authentication of users from an online database ```Key feature```
+- Product Page
+  - Detailed Information about selected movie
+  - Show similar movie suggestions
 
-  ![login/signup](https://user-images.githubusercontent.com/86410034/129320171-44f381c6-89fc-4e8f-ba57-b1159d7caba6.png)
+  ![productpage-3](https://user-images.githubusercontent.com/80893464/154789657-63a2a31f-fad0-49ad-8216-f18942a36541.png)
+
+
 
 - All Products Page
   - All products are fetched from online database ```Key feature```
