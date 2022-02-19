@@ -61,6 +61,7 @@ git pull origin <branch_name>
 
 ![productpage-3 (1)](https://user-images.githubusercontent.com/80893464/154789812-a7ada78f-da0b-4a8e-bd08-7fb59907731f.png)
 
+![productpage-3 (2)](https://user-images.githubusercontent.com/80893464/154789867-8166b768-9335-4460-988c-246d428095ef.png)
 
 
 
