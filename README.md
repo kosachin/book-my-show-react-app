@@ -51,8 +51,7 @@ git pull origin <branch_name>
 - Homepage
   - Slideshow in hero section
   - Category, Premieres, Events carousel
-  
-  ![homepage](https://user-images.githubusercontent.com/80893464/154788481-a764088e-ed43-4188-a601-11592ccdafb1.png)
+  ![homepage](https://user-images.githubusercontent.com/80893464/154789079-763b4c2f-bb28-48ca-8a73-407ea6a7e19d.png)
 
 
 - Sign in/ up Page
